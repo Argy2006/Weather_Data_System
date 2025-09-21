@@ -1,4 +1,6 @@
+Student Information :
 
+Name : ARYAN Roll No. : 2401350001 University: K.R. Mangalam University Course: Btech CSE (FULL STACK DEVELOPMENT) Subject : Data Structure And Algorothms LAB Course Code: ENCS253
 Weather Data Storage System 
 
 
@@ -60,5 +62,6 @@ Enter year: 2024
 Enter city: DELHI
 Enter temperature: 29 
 Record inserted successfully.
+
 
 
