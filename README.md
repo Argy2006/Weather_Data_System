@@ -1,10 +1,3 @@
-Student Information :
-
-Name : ARYAN GOYAL Roll No. : 2401350001 
-University: K.R. Mangalam University
-Course: Btech CSE (FULL STACK DEVELOPMENT)
-Subject : Data Structure And Algorothms 
-Course Code: ENCS205 / ENCA 201
 
 Weather Data Storage System
 
