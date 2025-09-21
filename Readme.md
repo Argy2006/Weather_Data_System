@@ -1,12 +1,3 @@
-Student Information :
-
-Name : ARYAN GOYAL
-Roll No. : 2401350001
-University: K.R. Mangalam University
-Course: Btech CSE (FULL STACK DEVELOPMENT)
-Subject : Data Structure And Algorothms
-Course Code: ENCS205 / ENCA 201
-
 
 Weather Data Storage System 
 
@@ -65,8 +56,9 @@ Weather Data Storage System
 5. Display data (Column-Major)
 6. Exit
 Enter your choice: 1
-Enter year: 2028
-Enter city: Bengaluru
-Enter temperature: 24.5
+Enter year: 2024
+Enter city: DELHI
+Enter temperature: 29 
 Record inserted successfully.
+
 
